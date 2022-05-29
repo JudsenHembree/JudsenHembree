@@ -11,6 +11,7 @@
 ## Experience
 - I have experience in the energy sector through Internships with Flexgen Power. 
 ## What You'll Find on My Github
+- This is my personal github. 
 - VR projects. I'm pretty decent at Unity. It's a lot of fun.
 - Coursework. Both mine, and me cloning students from my TA'd classes. I clone and find bugs then tell them.  
 - I have a seperate Github for all my internship related activites. That's all Private repo's. 
