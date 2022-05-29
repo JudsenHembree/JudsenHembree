@@ -7,9 +7,9 @@
 ## Education
 - I’m currently completing my Masters in computer science at Clemson University.
 - I also have an undergraduate Degree in MIS so I have a mangagement background. 
-- Current GPA is >= 3.7. 
+- Current GPA is >= 3.6. [Web Transcript from after spring 2022](https://drive.google.com/file/d/1KHTMyvGdr2Ixft96clxh-Jo4aytga4FK/view?usp=sharing)
 ## Experience
-- I have experience in the energy sector through Internships with Flexgen Power. 
+- I have experience in the energy sector through Internships with [Flexgen Power](https://flexgen.com). 
 ## What You'll Find on My Github
 - This is my personal github. 
 - VR projects. I'm pretty decent at Unity. It's a lot of fun.
