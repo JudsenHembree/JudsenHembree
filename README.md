@@ -2,7 +2,7 @@
 ## Some fun facts
 - I’m interested in Science, Philosophy, and Language.
 - My favorites are Chomsky and Schopenhaur.
-- I was very breifly semi-pro in the video game Smite.
+- I was very breifly semi-pro in the video game [Smite](https://www.smitegame.com/).
 - I used to be into motorcycles, but mine was stolen and bikes are expensive :(. 
 ## Education
 - I’m currently completing my Masters in computer science at Clemson University.
