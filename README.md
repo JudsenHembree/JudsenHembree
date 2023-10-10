@@ -3,11 +3,11 @@
 - I’m interested in Science, Philosophy, and Language.
 - My favorites are Chomsky and Schopenhaur.
 - I'm pretty good at [Smite](https://www.smitegame.com/).
-- I used to be into motorcycles, but mine was stolen and bikes are expensive :(. 
+- I used to be into motorcycles, but mine was stolen and bikes are expensive ☹️. 
 ## Education
 - I’m currently completing my Masters in computer science at Clemson University.
 - I also have an undergraduate Degree in MIS so I have a mangagement background. 
-- Current GPA is >= 3.6. [Web Transcript from after spring 2022](https://drive.google.com/file/d/1KHTMyvGdr2Ixft96clxh-Jo4aytga4FK/view?usp=sharing)
+- Current GPA is >= 3.8. [Web Transcript from after spring 2022](https://drive.google.com/file/d/1KHTMyvGdr2Ixft96clxh-Jo4aytga4FK/view?usp=sharing)
 ## Experience
 - I have experience in the energy sector with [Flexgen Power](https://flexgen.com). 
 ## What You'll Find on My Github
